@@ -7,6 +7,8 @@ MobileNetV2 transfer learning and deployed as a Streamlit app.
 
 **87.2% accuracy**, **0.884 balanced accuracy** and **0.879 macro F1** on 1030 held out test photos.
 
+**▶️ Try it live:** https://weather-condition-classification-avaawsryqx5wxhbg636xh3.streamlit.app/
+
 **Author:** Eng. Noureldin Bassem Mohamed
 
 ## The problem
